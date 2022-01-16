@@ -3,15 +3,15 @@
 
 
 ## Program Description
-Use web sockets (socket.io) for the messages between server and clients.
-The first page (index) will display a start window with a place to enter a username.
+Use web sockets (socket.io) for the messages between server and clients.<br />
+The first page (index) will display a start window with a place to enter a username.<br />
 The second page is the chat with a list of members on the left side.
 
 
 ## Future Thoughts
--add rooms.
--add private chat (one-on-one).
--add an option to send files, emojis.
+-add rooms.<br />
+-add private chat (one-on-one).<br />
+-add an option to send files, emojis.<br />
 
 
 ## Install
