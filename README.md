@@ -3,9 +3,9 @@
 
 
 ## Program Description
-Use web sockets (socket.io) for the messages between server and clients.\n
--The first page (index) will display a start window with a place to enter a username./n
--The second page is the chat with a list of members on the left side.
+Use web sockets (socket.io) for the messages between server and clients.
+The first page (index) will display a start window with a place to enter a username.
+The second page is the chat with a list of members on the left side.
 
 
 ## Future Thoughts
