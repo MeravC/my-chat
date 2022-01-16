@@ -7,10 +7,11 @@ Use web sockets (socket.io) for the messages between server and clients.
 -The first page (index) will display a start window with a place to enter a username.
 -The second page is the chat with a list of members on the left side.
 
+
 ## Future Thoughts
 -add rooms.
--add private chat (one on one).
--add option to send files, emojes.
+-add private chat (one-on-one).
+-add an option to send files, emojis.
 
 
 ## Install
