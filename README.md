@@ -31,6 +31,6 @@ Go to localhost:3000
 
 ```
 
-## output example
+## Output Example
 ![image](https://user-images.githubusercontent.com/50173238/149674284-2f827ef0-34b0-460a-ada2-6638161d9a86.png)
 ![image](https://user-images.githubusercontent.com/50173238/149674302-0bf9dcf0-b869-4602-ad07-54e2dc836993.png)
